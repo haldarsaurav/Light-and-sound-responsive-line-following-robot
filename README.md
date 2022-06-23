@@ -25,10 +25,11 @@ Analyze, design, and build different parts of a robot from scratch.
 
 ### Various Module and their Parts
 
-![robot layout!](img2/robot_layout.jpg "robot layout")
+
+![robot layout!](img2/robot_layout.jpg "robot_layout")
 
 
-![circuit on breadboard!](img/circuit on breadboard.jpg "circuit on breadboard")
+![circuit on breadboard!](img/circuit_on_breadboard.jpg "circuit on breadboard")
 
 
 1. **Module 1. Power Supply**
@@ -36,6 +37,10 @@ Analyze, design, and build different parts of a robot from scratch.
   <li>Voltage Regulator</li>
   <li>10 μf capacitors</li>
 </ul>
+
+![robot layout!](img/power_supply.jpg "robot_layout")
+![robot layout!](img2/voltrage_regulator.png "robot_layout")
+
 
 2. **Module 2. Light Sensor**
 <ul>
