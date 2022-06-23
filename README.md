@@ -27,7 +27,7 @@ Analyze, design, and build different parts of a robot from scratch.
 
 <img src="img2/robot_layout.jpg" width="200">
 
-![robot layout!](img2/robot_layout.jpg width="200" height="200")
+![robot layout!](img2/robot_layout.jpg width="600" height="400")
 
 
 ![circuit on breadboard!](img/circuit_on_breadboard.jpg "circuit on breadboard")
