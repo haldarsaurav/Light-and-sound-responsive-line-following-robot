@@ -9,8 +9,9 @@
 ### Various Module and their Parts
 
 1. Module 1. Power Supply
-
-..* Voltage Regulator
-..* 10mf Capacitors
+<ul>
+  <li>Voltage Regulator</li>
+  <li>10 mf capacitors</li>
+</ul>
 
 2. Module 2. Light Sensor
