@@ -25,9 +25,8 @@ Analyze, design, and build different parts of a robot from scratch.
 
 ### Various Module and their Parts
 
-<img src="img2/robot_layout.jpg" width="200">
 
-![robot layout!](img2/robot_layout.jpg width="600" height="400")
+![robot layout!](img2/robot_layout.jpg "robot_layout")
 
 
 ![circuit on breadboard!](img/circuit_on_breadboard.jpg "circuit on breadboard")
