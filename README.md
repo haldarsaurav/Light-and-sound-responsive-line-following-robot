@@ -1,1 +1,1 @@
-# Line_Following_Robot_Light_Sound_Responsive
+# Light and sound responsive line following robot
