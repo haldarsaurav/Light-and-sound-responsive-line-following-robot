@@ -28,7 +28,7 @@ Analyze, design, and build different parts of a robot from scratch.
 ![robot layout!](img2/robot_layout.jpg "robot layout")
 
 
-![circuit on breadboard!](img/circuit_on_breadboard.jpg"circuit on breadboard")
+![circuit on breadboard!](img/circuit_on_breadboard.jpg "circuit on breadboard")
 
 
 1. **Module 1. Power Supply**
