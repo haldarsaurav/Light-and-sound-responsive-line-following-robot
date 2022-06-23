@@ -9,8 +9,16 @@
 ### Various Module and their Parts
 
 1. Module 1. Power Supply
-<ul><li>Voltage Regulator</li>
+<ul>
+  <li>Voltage Regulator</li>
   <li>10 mf capacitors</li>
 </ul>
 
 2. Module 2. Light Sensor
+<ul>
+  <li>Photocells + Comparators</li>
+  <li>2.7 KOhm resistors</li>
+  <li>OPA2344</li>
+  <li>LEDs</li>
+  <li>300 current-limiting resistors</li>
+</ul>
