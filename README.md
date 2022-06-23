@@ -47,7 +47,7 @@
 ![robot layout!](img/power_supply.jpg "robot_layout")
 ![robot layout!](img2/voltrage_regulator.png "robot_layout")
 
-
+---
 2. **Module 2. Light Sensor**
 <ul>
   <li>Photocells + Comparators</li>
@@ -60,6 +60,7 @@
 ![circuit on breadboard!](img/circuit_on_breadboard.jpg "circuit on breadboard")
 ![robot layout!](img2/photocells.png "robot_layout")
 
+---
 3. **Module 3. Buzzer Driver**
 <ul>
 <li>LM358</li>
@@ -68,7 +69,7 @@
   
 ![robot layout!](img2/speaker.png "robot_layout")
 
-
+---
 4. **Module 4. Microphone Amplifier**
  <ul>
 <li>Electret mic</li>
@@ -81,7 +82,7 @@
   
 ![robot layout!](img/Microphone.jpg "robot_layout")
 ![robot layout!](img2/microphone.png "robot_layout")
-
+---
 5. **Module 5. Motor Drivers**
  <ul>
  <li>DC motors</li>
@@ -97,7 +98,6 @@
 ---
 ## Final Code:
 
----
 
     //***************************************************************************************
     //  Description; Final code that runs the robot
