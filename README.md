@@ -1,5 +1,7 @@
 # Light and sound responsive line following robot
 
+![The San Juan Mountains are beautiful!](img/robot1.jpg "San Juan Mountains")
+
 ## In this course, I learned all the various ways to interface various sensors to measure and sense real world data and manipulate them. 
 
 ---
