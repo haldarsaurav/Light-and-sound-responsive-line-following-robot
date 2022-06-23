@@ -1,14 +1,19 @@
 # Light and sound responsive line following robot
 
-![The San Juan Mountains are beautiful!](img/robot1.jpg "San Juan Mountains")
+![The final Robot!](img/robot1.jpg "The final robot")
 
-## In this course, I learned all the various ways to interface various sensors to measure and sense real world data and manipulate them. 
+## In this course, I learned all the various ways to interface various sensors to measure and sense real world data and manipulate them acoordingly. 
+## Understanding the fundamentals for engineering electronic interfaces between the physical world and digital devices.
+## Developing an understanding of the building blocks of electronics.
+## Analyze, design, and build different parts of a robot from scratch.
 
 ---
 
-## Developing a Line following robot, which responds to light and sound, interfacing microphone using LM358 as an audio amplifier, geared DC motors, LDR's, LED's, speaker with an Arduino Uno. 
+## Developing a Line following robot, which responds to light and sound, interfacing microphone using LM358 as an audio amplifier, driving geared DC motors using MODFET's with back current protection, using LDR's to sense light, LED's as indicators and driving a speaker/buzzer all centrally controlled via an Arduino Uno. 
 
 ### Various Module and their Parts
+
+![robot layout!](img2/robot_layout.jpg "robot layout")
 
 1. **Module 1. Power Supply**
 <ul>
