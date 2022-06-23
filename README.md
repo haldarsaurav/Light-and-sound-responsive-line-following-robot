@@ -1,3 +1,7 @@
 # Light and sound responsive line following robot
 
-##It has a buzzer which plays music when activated by a clap, has 2 LDRs (op-amp amplified Wheatstone bridges) to detect light and follows the light using 2 transistor-controlled geared motors and has Power Blocking and centrally controlled by Arduino ( ATMEGA-328P-PU).    
+##In this course, I learned all the various ways to interface various sensors to measure and sense real world data and manipulate them. 
+
+---
+
+##Developing a Line following robot, which responds to light and sound, interfacing microphone using LM358 as an audio amplifier, geared DC motors, LDR's, LED's, speaker with an Arduino Uno. 
