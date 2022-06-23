@@ -17,7 +17,7 @@ Analyze, design, and build different parts of a robot from scratch.
 
 ## Flow Chart
 
-![flowchart!](img2/img2/flowchart.png "flowchart")
+![flowchart!](img2/flowchart.png "flowchart")
 
 
 
@@ -28,7 +28,7 @@ Analyze, design, and build different parts of a robot from scratch.
 ![robot layout!](img2/robot_layout.jpg "robot layout")
 
 
-![The final Robot!](img/robot1.jpg "The final robot")
+![circuit on breadboard!](img/circuit on breadboard.jpg "circuit on breadboard")
 
 
 1. **Module 1. Power Supply**
