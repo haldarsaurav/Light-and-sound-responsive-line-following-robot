@@ -4,10 +4,10 @@
 
 ![The final Robot!](img/robot1.jpg "The final robot")
 
-In this course, I learned all the various ways to interface various sensors to measure and sense real world data and manipulate them acoordingly.\n
-Understanding the fundamentals for engineering electronic interfaces between the physical world and digital devices. \n
-Developing an understanding of the building blocks of electronics. \n
-Analyze, design, and build different parts of a robot from scratch. \n
+In this course, I learned all the various ways to interface various sensors to measure and sense real world data and manipulate them acoordingly.\
+Understanding the fundamentals for engineering electronic interfaces between the physical world and digital devices. \
+Developing an understanding of the building blocks of electronics. \
+Analyze, design, and build different parts of a robot from scratch. \
 
 ---
 
