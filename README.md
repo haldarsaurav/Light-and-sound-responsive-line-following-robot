@@ -29,7 +29,7 @@ Analyze, design, and build different parts of a robot from scratch.
 ![robot layout!](img2/robot_layout.jpg "robot_layout")
 
 
-![circuit on breadboard!](img/circuit_on_breadboard.jpg "circuit on breadboard")
+
 
 
 1. **Module 1. Power Supply**
@@ -51,11 +51,17 @@ Analyze, design, and build different parts of a robot from scratch.
   <li>300 Ω current-limiting resistors</li>
 </ul>
 
+![circuit on breadboard!](img/circuit_on_breadboard.jpg "circuit on breadboard")
+![robot layout!](img2/photocells.png "robot_layout")
+
 3. **Module 3. Buzzer Driver**
 <ul>
 <li>LM358</li>
 <li>speaker</li>
   </ul>
+  
+![robot layout!](img2/speaker.png "robot_layout")
+
 
 4. **Module 4. Microphone Amplifier**
  <ul>
@@ -66,6 +72,9 @@ Analyze, design, and build different parts of a robot from scratch.
 <li>1 μF cap</li>
 <li>LM358</li>
   </ul>
+  
+![robot layout!](img/Microphone.jpg "robot_layout")
+![robot layout!](img2/microphone.png "robot_layout")
 
 5. **Module 5. Motor Drivers**
  <ul>
@@ -76,7 +85,8 @@ Analyze, design, and build different parts of a robot from scratch.
 <li>1 kΩ resistors</li>
   </ul>
 
-
+![robot layout!](img/motor_interface.jpg "robot_layout")
+![robot layout!](img2/motor_driver.png "robot_layout")
 
 ---
 ## Final Code:
