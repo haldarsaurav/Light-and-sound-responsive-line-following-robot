@@ -38,6 +38,10 @@ Analyze, design, and build different parts of a robot from scratch.
   <li>10 μf capacitors</li>
 </ul>
 
+![robot layout!](img/power_supply.jpg "robot_layout")
+![robot layout!](img2/voltrage_regulator.png "robot_layout")
+
+
 2. **Module 2. Light Sensor**
 <ul>
   <li>Photocells + Comparators</li>
