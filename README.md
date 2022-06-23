@@ -11,9 +11,25 @@ Analyze, design, and build different parts of a robot from scratch.
 
 ---
 
+## Block Diagram
+
+![block_diagram!](img2/block_diagram.png "block_diagram")
+
+## Flow Chart
+
+![flowchart!](img2/img2/flowchart.png "flowchart")
+
+
+
+
+
 ### Various Module and their Parts
 
 ![robot layout!](img2/robot_layout.jpg "robot layout")
+
+
+![The final Robot!](img/robot1.jpg "The final robot")
+
 
 1. **Module 1. Power Supply**
 <ul>
@@ -57,6 +73,8 @@ Analyze, design, and build different parts of a robot from scratch.
 
 
 
+---
+## Final Code:
 
 ---
 
