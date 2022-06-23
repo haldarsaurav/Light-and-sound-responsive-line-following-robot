@@ -1,18 +1,8 @@
 //***************************************************************************************
-//  EE40LX
-//  Sketch 4.3
-//
 //  Description;  Switch P1.1 of MSP430 between output 3.3V and input mode (high-Z) to
 // 	demonstrate tri-stating and bypass capacitor filtering. If the LaunchPad button
 //	at P1.3 is pressed, the output switches at a higher frequency.
 //      Use the green LED as an indicator of output state.
-//
-//  Tom Zajdel
-//  University of California, Berkeley
-//  July 27, 2015
-//
-//  Version 1.1 July 27, 2015 - Added curly brackets to conditional statements
-//
 //***************************************************************************************
 
 int VOUT   = P1_1;  // set VOUT   as P1.1 alias
