@@ -8,13 +8,13 @@
 
 ### Various Module and their Parts
 
-1. Module 1. Power Supply
+1. **Module 1. Power Supply**
 <ul>
   <li>Voltage Regulator</li>
   <li>10 μf capacitors</li>
 </ul>
 
-2. Module 2. Light Sensor
+2. **Module 2. Light Sensor**
 <ul>
   <li>Photocells + Comparators</li>
   <li>2.7 KΩ resistors</li>
@@ -23,13 +23,13 @@
   <li>300 Ω current-limiting resistors</li>
 </ul>
 
-3. Module 3. Buzzer Driver
+3. **Module 3. Buzzer Driver**
 <ul>
 <li>LM358</li>
 <li>speaker</li>
   </ul>
 
-4. Module 4. Microphone Amplifier
+4. **Module 4. Microphone Amplifier**
  <ul>
 <li>Electret mic</li>
 <li>10 kOhm resistors</li>
@@ -39,7 +39,7 @@
 <li>LM358</li>
   </ul>
 
-5. Module 5. Motor Drivers 
+5. **Module 5. Motor Drivers**
  <ul>
  <li>DC motors</li>
 <li>IN4001 diodes</li>
