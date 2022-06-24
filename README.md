@@ -4,10 +4,16 @@
 
 ![The final Robot!](img/robot1.jpg "The final robot")
 
-In this course, I learned all the various ways to interface various sensors to measure and sense real world data and manipulate them acoordingly. 
-Understanding the fundamentals for engineering electronic interfaces between the physical world and digital devices.
-Developing an understanding of the building blocks of electronics.
-Analyze, design, and build different parts of a robot from scratch.
+<ul>
+
+  <li>In this course, I learned all the various ways to interface various sensors to measure and sense real world data and manipulate them acoordingly.</li>
+  <li>Understanding the fundamentals for engineering electronic interfaces between the physical world and digital devices. </li>
+  <li>Developing an understanding of the building blocks of electronics. </li>
+  <li>Analyze, design, and build different parts of a robot from scratch. </li>
+  
+  
+</ul>  
+  
 
 ---
 
@@ -29,7 +35,7 @@ Analyze, design, and build different parts of a robot from scratch.
 ![robot layout!](img2/robot_layout.jpg "robot_layout")
 
 
-![circuit on breadboard!](img/circuit_on_breadboard.jpg "circuit on breadboard")
+
 
 
 1. **Module 1. Power Supply**
@@ -41,7 +47,7 @@ Analyze, design, and build different parts of a robot from scratch.
 ![robot layout!](img/power_supply.jpg "robot_layout")
 ![robot layout!](img2/voltrage_regulator.png "robot_layout")
 
-
+---
 2. **Module 2. Light Sensor**
 <ul>
   <li>Photocells + Comparators</li>
@@ -51,12 +57,19 @@ Analyze, design, and build different parts of a robot from scratch.
   <li>300 Ω current-limiting resistors</li>
 </ul>
 
+![circuit on breadboard!](img/circuit_on_breadboard.jpg "circuit on breadboard")
+![robot layout!](img2/photocells.png "robot_layout")
+
+---
 3. **Module 3. Buzzer Driver**
 <ul>
 <li>LM358</li>
 <li>speaker</li>
   </ul>
+  
+![robot layout!](img2/speaker.png "robot_layout")
 
+---
 4. **Module 4. Microphone Amplifier**
  <ul>
 <li>Electret mic</li>
@@ -66,7 +79,10 @@ Analyze, design, and build different parts of a robot from scratch.
 <li>1 μF cap</li>
 <li>LM358</li>
   </ul>
-
+  
+![robot layout!](img/Microphone.jpg "robot_layout")
+![robot layout!](img2/microphone.png "robot_layout")
+---
 5. **Module 5. Motor Drivers**
  <ul>
  <li>DC motors</li>
@@ -76,12 +92,12 @@ Analyze, design, and build different parts of a robot from scratch.
 <li>1 kΩ resistors</li>
   </ul>
 
-
+![robot layout!](img/motor_interface.jpg "robot_layout")
+![robot layout!](img2/motor_driver.png "robot_layout")
 
 ---
 ## Final Code:
 
----
 
     //***************************************************************************************
     //  Description; Final code that runs the robot
