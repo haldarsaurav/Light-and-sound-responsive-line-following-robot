@@ -6,8 +6,8 @@
 
 <ul>
 
-  <li>In this course, I learned all the various ways to interface various sensors to measure and sense real world data and manipulate them acoordingly.</li>
-  <li>Understanding the fundamentals for engineering electronic interfaces between the physical world and digital devices. </li>
+  <li>In this project, I learned all the various ways to interface various sensors to measure and sense real world data and manipulate them acordingly.</li>
+  <li>Understanding the fundamentals for engineering electronic interfaces between the physical world and digital devices and their corresponding data. </li>
   <li>Developing an understanding of the building blocks of electronics. </li>
   <li>Analyze, design, and build different parts of a robot from scratch. </li>
   
