@@ -45,6 +45,7 @@
 </ul>
 
 ![robot layout!](img/power_supply.jpg "robot_layout")
+Yes, thats a homemade power supply :)
 ![robot layout!](img2/voltrage_regulator.png "robot_layout")
 
 ---
